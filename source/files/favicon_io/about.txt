@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Bhaiksuki
+- Font Author: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bhaiksuki)
+- Font Source: https://fonts.gstatic.com/s/notosansbhaiksuki/v17/UcC63EosKniBH4iELXATsSBWdvUHXxhj8rLUdU4wh9U.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
